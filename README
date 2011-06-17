@@ -1,0 +1,11 @@
+command using alice.vim.
+
+vim-alice-map define.
+
+command.
+    :[range]URLEncode
+            urlencode selected area.
+    :[range]URLDecode
+            urldecode selected area.
+
+
